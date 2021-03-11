@@ -1,0 +1,6 @@
+**/node_modules/**/*
+.vscode/
+csharp/bin/
+ts-node/dist/
+golang/build/
+dart/build/

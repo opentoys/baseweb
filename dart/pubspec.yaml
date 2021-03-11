@@ -1,0 +1,10 @@
+name: baseweb
+version: 1.0.0
+description: >-
+  A baseweb
+repository: https://github.com/openxcc/baseweb
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+dependencies:
